@@ -7,3 +7,5 @@
 -Exprimir los limones.
 -Mezclar con el agua y el azúcar.
 -Servir fría.
+##Variacion
+-Menta: 6 hojas 
