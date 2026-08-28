@@ -1,3 +1,3 @@
-#Receta de limonada
-Versión de practica para aprender ramas en Git.
+# Receta de limonada
+Version de practica para GitHub.
 Porciones: 4 vasos
